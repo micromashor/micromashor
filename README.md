@@ -6,3 +6,4 @@
 # Important Notes
 
 - [Portability and Testing](Portability.md)
+- [Licensing](Licensing.md)
